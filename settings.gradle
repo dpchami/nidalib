@@ -1,2 +1,2 @@
-include ':nidalib'
+include ':app'
 rootProject.name = "SAJI LIB"
