@@ -1,0 +1,6 @@
+nida
+nin
+photo
+head
+back
+desc
